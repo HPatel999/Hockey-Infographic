@@ -1,1 +1,1 @@
-# Hockey-Infographic
+# Knight's Tour Efficiency
